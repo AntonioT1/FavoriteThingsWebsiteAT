@@ -13,3 +13,7 @@ h2 {
 body {
 	background-image: url(https://i.pinimg.com/originals/af/a3/a8/afa3a877ac57bee986b5bfd7fdd0e03b.jpg);
 }
+
+img {
+	width:80% ; height:80%
+}
